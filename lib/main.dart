@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         title: 'Material App',
         initialRoute: 'home',
-        routes: {'home': (context) => HomePage()}, //pruebas de git a
+        routes: {'home': (context) => HomePage()}, //pruebas de git b
       ),
     );
   }
